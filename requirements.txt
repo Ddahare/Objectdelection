@@ -1,0 +1,9 @@
+boto3
+ultralytics
+opencv-python-headless
+numpy
+pandas
+streamlit
+tqdm
+pillow
+python-dotenv
